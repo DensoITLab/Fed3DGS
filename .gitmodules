@@ -1,0 +1,9 @@
+[submodule "gaussian-splatting/submodules/simple-knn"]
+	path = gaussian-splatting/submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
+[submodule "gaussian-splatting/SIBR_viewers"]
+	path = gaussian-splatting/SIBR_viewers
+	url = https://gitlab.inria.fr/sibr/sibr_core.git
+[submodule "gaussian-splatting/submodules/diff-gaussian-rasterization/third_party/glm"]
+	path = gaussian-splatting/submodules/diff-gaussian-rasterization/third_party/glm
+	url = https://github.com/g-truc/glm.git
